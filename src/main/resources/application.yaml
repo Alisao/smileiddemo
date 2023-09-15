@@ -1,0 +1,8 @@
+server:
+  port: 8100
+smileid:
+  url: https://testapi.smileidentity.com
+  apikey: your-api-key
+  partnerid: your-partner-id
+  callbackurl: your-callback-url
+  sidserver: 0 # 0 for sandbox, 1 for production
